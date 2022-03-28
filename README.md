@@ -1,5 +1,5 @@
 # ProjectProposal 1: name?
-Description of the project...
+Hang man game on the commmand line with simple ascii art,
 
 ## GUI Mockup #1
 
@@ -11,7 +11,7 @@ Description of the project...
 
 
 # ProjectProposal 2: name?
-Description of the project...
+tic tac toe command line game with ascii art.
 
 ## GUI Mockup #1
 
