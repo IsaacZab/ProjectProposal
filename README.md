@@ -16,9 +16,12 @@ Hang man game on the commmand line with simple ascii art. Players will get six g
 tic tac toe command line game with ascii art.
 
 ## GUI Mockup #1
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/guimockuptic.jpg)
 
 ## GUI Mockup #2
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/guimockuptic2.jpg)
 
 ## GUI Mockup #3
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Guimockup2.jpg)
 
 ## Class Diagram #2
