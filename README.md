@@ -22,6 +22,6 @@ Two player tic tac toe game on the command line. players will be given X or O an
 ![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/guimockuptic2.jpg)
 
 ## GUI Mockup #3
-![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Guimockup2.jpg)
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Guimockup3.jpg)
 
 ## Class Diagram #2
