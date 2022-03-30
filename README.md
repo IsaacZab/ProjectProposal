@@ -4,8 +4,10 @@ Hang man game on the commmand line with simple ascii art. Players will get six g
 ## GUI Mockup #1
 ![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Untitled%20Diagram%20(1).jpg)
 ## GUI Mockup #2
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Guimockup3.jpg)
 
 ## GUI Mockup #3
+![alt text](https://github.com/IsaacZab/ProjectProposal/blob/main/images/Guimockup2.jpg)
 
 ## Class Diagram #1
 
