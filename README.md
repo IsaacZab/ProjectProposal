@@ -1,5 +1,5 @@
 # ProjectProposal 1: name?
-Hang man game on the commmand line with simple ascii art,
+Hang man game on the commmand line with simple ascii art. Players will get six guesses to guess the correct word for each wrong guess another part of the hangman will be added. Letters that are guessed correctly will be shown in the correct place.
 
 ## GUI Mockup #1
 
